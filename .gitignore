@@ -1,0 +1,34 @@
+
+# Created by https://www.gitignore.io/api/nuxt,vuejs,nuxtjs
+# Edit at https://www.gitignore.io/?templates=nuxt,vuejs,nuxtjs
+
+### Nuxt ###
+# gitignore template for Nuxt.js projects
+#
+# Recommended template: Node.gitignore
+
+# Nuxt build
+.nuxt
+
+ # Nuxt generate
+dist
+
+### Nuxtjs ###
+# dependencies
+node_modules
+
+# logs
+npm-debug.log
+
+# Nuxt build
+
+# Nuxt generate
+
+### Vuejs ###
+# Recommended template: Node.gitignore
+
+node_modules/
+dist/
+yarn-error.log
+
+# End of https://www.gitignore.io/api/nuxt,vuejs,nuxtjs
